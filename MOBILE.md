@@ -226,6 +226,8 @@
 - [Kobo Books](https://www.kobo.com) - Read eBooks and audiobooks with an integrated store. 🤖 🍎
 - [Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader) - Lightweight and ad-free eBook reader for EPUB files. 🤖
 - [Apple Books](https://www.apple.com/apple-books) - Manage and read eBooks with built-in audiobook features. 🍎
+- [HushBook](https://hushbook.app) - Audiobook player with word-by-word synced text, offline and private, works with your own audio and ebook files. 🤖 🍎
+
 
 ### PDF Tools
 
