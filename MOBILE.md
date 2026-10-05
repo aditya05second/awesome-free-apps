@@ -228,7 +228,6 @@
 - [Apple Books](https://www.apple.com/apple-books) - Manage and read eBooks with built-in audiobook features. 🍎
 - [HushBook](https://hushbook.app) - Audiobook player with word-by-word synced text, offline and private, works with your own audio and ebook files. 🤖 🍎
 
-
 ### PDF Tools
 
 - [Adobe Acrobat Reader](https://www.adobe.com/acrobat/mobile-app.html) - View, annotate, and sign PDFs with advanced tools. 🤖 🍎
